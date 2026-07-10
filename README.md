@@ -1,4 +1,4 @@
-# commerce-bundle-offers-skill
+# genpark-commerce-bundle-offers-skill
 
 > **GenPark AI Agent Skill** -- ﻿
 
